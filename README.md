@@ -14,5 +14,5 @@
 * MySQL
 * Swift
 
-<br />📲 Estoy enfocado en ser desarrollador web y de aplicaciones moviles
+<br />📱Estoy enfocado en ser desarrollador web y de aplicaciones moviles
 <br /><br />📚 No quiero dejar de aprender
