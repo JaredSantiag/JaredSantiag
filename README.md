@@ -1,4 +1,4 @@
-<div style="text-align:center; Font-family:Arial;">
+
     ![GitHub Logo](https://pbs.twimg.com/profile_banners/1604297023/1619566947/1080x360)
 
     <h1>👋 Hola Mundo, soy Jared</h1>
@@ -27,4 +27,4 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF" />
     </p>
-</div>
+
